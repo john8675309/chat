@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bs58check": "^3.0.1",
+    "create-hash": "^1.2.0",
+    "crypto": "^1.0.1",
+    "elliptic": "^6.5.4",
+    "qrcode-terminal": "^0.12.0",
+    "ws": "^8.13.0",
+    "yargs": "^17.7.2"
+  }
+}
